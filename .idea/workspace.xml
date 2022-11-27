@@ -1,22 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ba869eb-d7b3-4649-b84f-2c17ce24989e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/DjangoProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/MyNewDjangoProject/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/MyNewDjangoProject/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/MyNewDjangoProject/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/MyNewDjangoProject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/MyNewDjangoProject/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MyNewDjangoProject/manage.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-    </list>
+    <list default="true" id="2ba869eb-d7b3-4649-b84f-2c17ce24989e" name="Changes" comment="Version 1.1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,8 +21,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "C:/Users/inetm/PycharmProjects/DjangoProject",
     "settings.editor.selected.configurable": "vcs.Git"
   }
@@ -74,6 +61,21 @@
       <option name="presentableId" value="Default" />
       <updated>1669570583716</updated>
     </task>
+    <task id="LOCAL-00001" summary="Version 1.0">
+      <created>1669574696970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1669574696970</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Version 1.1">
+      <created>1669574846096</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1669574846096</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -84,8 +86,43 @@
             <State />
           </value>
         </entry>
+        <entry key="c1f0e222-97af-4e25-a29b-2c973e8f36a0">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
       </map>
     </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="c1f0e222-97af-4e25-a29b-2c973e8f36a0" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Version 1.0" />
+    <MESSAGE value="Version 1.1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Version 1.1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
